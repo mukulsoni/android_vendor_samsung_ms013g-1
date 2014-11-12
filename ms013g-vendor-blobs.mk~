@@ -270,5 +270,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ms013g/proprietary/vendor/lib/libcsd-client.so:system/vendor/lib/libcsd-client.so \
     vendor/samsung/ms013g/proprietary/vendor/lib/libdsucsd.so:system/vendor/lib/libdsucsd.so \
     vendor/samsung/ms013g/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
-    vendor/samsung/ms013g/proprietary/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so \
-    vendor/samsung/ms013g/proprietary/vendor/lib/libNimsWrap.so:system/vendor/lib/libNimsWrap.so
+    vendor/samsung/ms013g/proprietary/vendor/lib/libOmxMux.so:system/vendor/lib/libOmxMux.so
